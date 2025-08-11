@@ -1,0 +1,64 @@
+Initial Cube:
+[White Face]
+W W W
+W W W
+W W W
+
+[Red Face]
+R R R
+R R R
+R R R
+
+[Blue Face]
+B B B
+B B B
+B B B
+
+[Orange Face]
+O O O
+O O O
+O O O
+
+[Green Face]
+G G G
+G G G
+G G G
+
+[Yellow Face]
+Y Y Y
+Y Y Y
+Y Y Y
+
+Final Cube:
+[White Face]
+W W W
+W W W
+W W W
+
+[Red Face]
+R R R
+R R R 
+R R R
+
+[Blue Face]
+B B B
+B B B
+B B B
+
+[Orange Face]
+O O O
+O O O
+O O O
+
+[Green Face]
+G G G
+G G G
+G G G
+
+[Yellow Face]
+Y Y Y
+Y Y Y
+Y Y Y
+
+Moves Used: F U R U' R' D' R D U R U' R' U' F' U F F R U R' U' F' R' D' R D R' D' R D
+Is Solved? true
